@@ -1,0 +1,14 @@
+.header nav a.active,.header nav a[aria-current="page"]{color:#4ccaff}
+.page-main{min-height:calc(100vh - 135px)}
+.page-section{padding-bottom:85px}
+.page-title{font:600 clamp(32px,4vw,43px)/1.18 'Space Grotesk';letter-spacing:-1.5px;margin:0}
+.page-title span{color:#31baff}
+.job h2,.project h2,.education-item h2{font:600 21px 'Space Grotesk';margin:0}
+.project h2{font-size:18px;margin:0 0 8px}
+.education-item h2{font-size:14px;margin:12px 0}
+.page-next{margin-top:35px}
+.card-link{display:inline-block;margin-top:8px;color:#4fc8ff;font-size:10px;font-weight:700}
+.home-intro{padding-bottom:80px}
+.page-contact{margin:0;padding:100px 0}
+@media(max-width:900px){.header nav{gap:10px}.header nav a{font-size:9px}}
+@media(max-width:680px){.header nav a{font-size:12px}}
