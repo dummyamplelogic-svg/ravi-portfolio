@@ -4,7 +4,8 @@ HOW TO VIEW
 1. Extract Ravi-Portfolio.zip.
 2. Open the Ravi-Portfolio folder in Visual Studio Code.
 3. Open index.html in your browser, or use the VS Code Live Server extension.
-4. Keep the images and assets folders alongside index.html.
+4. Use the fixed header to navigate between the separate Home, About, Skills, Experience, Projects, Education and Contact pages.
+5. Keep all HTML files, style.css, pages.css, script.js, the images folder and the assets folder together.
 
 BEFORE PUBLISHING
 - Review the employment dates and overlapping roles in the uploaded resume.
